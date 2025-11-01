@@ -33,17 +33,12 @@ cd React_Weather_App
 ```bash
 npm install
 ```
-### Set up the API key:
-- Create the .env file in the root directory
-- Add the openWeatherMap API Key
-```bash
-VITE_API_ID='API-KEY'
-```
+
 ### Run Command
 ```bash
 npm run dev
 ```
-### Set up the API key:
+### Test the app:
 - Enter the city name in the search bar.
 - Click on the search icon and click on the search icon to see the weather details.
 - This app displays the temperature,humidity,wind speed, and updates the background based on the weather condition.
