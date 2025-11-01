@@ -12,9 +12,8 @@ This is a simple weather application built with React. It allows users to search
 ## Technologies Used
 
 - React.js
-- OpenWeatherMap API
+- Open-Meteo API
 - CSS for styling
-- Environment variables for API key
 
 ## Setup Instructions
 
